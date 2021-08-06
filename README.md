@@ -2,7 +2,7 @@
 
 ### Overall:
 
-- This an embeded [ECMAScript E5/E5.1](https://262.ecma-international.org/5.1/) using [Duktape](https://duktape.org/) Javascript engine, extended with a set of Ultimanite functions bindings.
+- This an embeded [ECMAScript E5/E5.1](https://262.ecma-international.org/5.1/) using [Duktape](https://duktape.org/) Javascript engine, extended with a set of native Lunar functions bindings.
 
 - Inside the fortnite win64 dir, create a folder called `uscripts`,
 inside that folder you are free to place 
