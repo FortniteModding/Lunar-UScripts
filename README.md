@@ -340,3 +340,11 @@ inside that folder you are free to place
   Reads a file contents and returns it as a string.
 
 ---
+
+- ```js
+  void UPrint("Hello World!");
+  ```
+
+  Prints a message in both consoles.
+
+---
