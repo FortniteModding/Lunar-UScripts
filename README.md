@@ -114,7 +114,7 @@ inside that folder you are free to place
 ---
 
 - ```js
-  void UScaleActor(actorPointer, x, y, z);
+  void UScaleActor(actorPointer, [x, y, z]);
   ```
 
   Scales an actor with 3d scale values
