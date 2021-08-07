@@ -345,6 +345,6 @@ inside that folder you are free to place
   void UPrint("Hello World!");
   ```
 
-  Prints a message in both consoles.
+  Prints a message in the UE4 Console.
 
 ---
