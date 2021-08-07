@@ -348,3 +348,18 @@ inside that folder you are free to place
   Prints a message in the UE4 Console.
 
 ---
+
+- ```js
+  void UJump(playerPawnPointer);
+  ```
+
+  Makes the pawn jump.
+
+  - Usage:
+
+    ```js
+    var player = UGetLocalPlayer();
+    UJump(player);
+    ```
+
+---
